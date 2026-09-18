@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kings-N45o.aternos.me",
+    "ip": "kings-N45o.aternos.me:25748",
     "port": 25748,
     "version": "",
     "try-creative": false
